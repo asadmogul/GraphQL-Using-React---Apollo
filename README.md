@@ -1,1 +1,1 @@
-# GraphQL-Using-React---Apollo
+# graphQL-using-react-and-apollo
